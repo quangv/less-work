@@ -4,7 +4,7 @@ Based on Colemak, Norman and Workman keyboard layouts.
 
 Emphasizes Keyboard Curling, as well as common keyboard shortcuts.
  
-
+```
 [q][][][][][][][][][:]
 [a][s][][][][][][][][]
 [z][x][c][v][][][]
@@ -98,6 +98,6 @@ ER no good
 [a][s][ ][t][d][y][n][e][o][i]
 [z][x][c][v][g][b][m]
 
-
+```
 
 
